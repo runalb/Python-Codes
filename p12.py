@@ -1,0 +1,12 @@
+a=10
+print(type(a))
+print(a)
+a=0b0011
+print(type(a))
+print(a)
+a=0O123
+print(type(a))
+print(a)
+a=0x123
+print(type(a))
+print(a)
